@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./.github/logo.svg" alt="Move It" width="300"/>
+   <img src="./github/logo.svg" alt="Move It" width="300"/>
 </p>
 
 <p align="center">	
@@ -50,8 +50,8 @@
 </p>
 
 <div>
-   <img src="./.github/screenshot-1.png" width="400px">
-   <img src="./.github/screenshot-2.png" width="400px">
+   <img src="./github/screenshot-1.png" width="400px">
+   <img src="./github/screenshot-2.png" width="400px">
 </div>
 
 # :eyes: Demo Website
