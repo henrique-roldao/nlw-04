@@ -52,7 +52,9 @@
 <div>
    <img src="./github/screenshot-1.png" width="400px">
    <img src="./github/screenshot-2.png" width="400px">
-   <img src="./github/screenshot-3.png" width="400px">
+   <div align=center>
+      <img src="./github/screenshot-3.png" width="900px">
+   <div/>
 </div>
 
 # :eyes: Demo Website
