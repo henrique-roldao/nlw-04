@@ -54,12 +54,12 @@
    <img src="./github/screenshot-2.png" width="400px">
    <div align="center">
       <img src="./github/screenshot-3.png" width="400px">
-   <div/>
+   </div>
 </div>
 
 # :eyes: Demo Website
 The demo website can be missing some features, clone and run the project to a full experience. <br>
-👉  demo: 
+👉  demo: <a href"https://moveit-henrique-roldao.vercel.app/"> Deploy in Vercel </a>
 
 # :computer: Technologies
 This project was made using the follow technologies:
